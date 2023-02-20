@@ -1,4 +1,4 @@
-[![MasterHead](img-1)]
+<img align="center" alt="Coding" width="auto" src="img-2.jpg" />
 <h1 align="center">Hi 👋, I'm SaheduZzaman</h1>
 <h3 align="center">A Computer Science & Engineering student from Sylhet, Bangladesh &#x1F1E7;&#x1F1E9; . I'm very passionate about Competitive programming and coding.</h3>
 <img align="right" alt="Coding" width="400" src="img-2.jpg" />
