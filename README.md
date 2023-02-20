@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="auto" src="img-1.jpg" />
+<img align="center" alt="Coding" width="700" src="img-1.jpg" />
 <h1 align="center">Hi 👋, I'm SaheduZzaman</h1>
 <h3 align="center">A Computer Science & Engineering student from Sylhet, Bangladesh. I'm very passionate about Competitive programming and coding.</h3>
 <img align="right" alt="Coding" width="400" src="img-2.jpg" />
