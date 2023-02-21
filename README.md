@@ -1,6 +1,7 @@
 <img align="left" alt="Coding" width="300" src="img-1.jpg" />
-<h1 align="center">Hi 👋, I'm SaheduZzaman</h1>
-<h3 align="center">A Computer Science & Engineering student from Sylhet, Bangladesh. I'm very passionate about Competitive programming and coding.</h3>
+<h1 align="center">Hi 👋,<br> I'm SaheduZzaman</h1>
+<h2 align="center">A FRONTEND DEVELOPER FROM BANGLADESH 🇧🇩</h2>
+<h3 align="center">Studying Computer Science & Engineering. Like to participate in Competitive programming and coding challenges.</h3>
 <img align="right" alt="Coding" width="400" src="img-2.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahed009&label=Profile%20views&color=0e75b6&style=flat" alt="sahed009" /> </p>
 
