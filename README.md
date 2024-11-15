@@ -1,3 +1,17 @@
+# 👨‍💻 Sahed's GitHub
+
+Welcome to my GitHub! 🎉  
+I'm a passionate **Frontend Developer** with a focus on **React JS** and **Tailwind CSS**. Currently pursuing a **B.Sc. in Computer Science & Engineering**. 
+
+Here, you'll find a collection of my projects and code snippets that showcase my skills in:
+- **Web Development**
+- **Problem Solving**
+
+Feel free to explore my repositories, and don't hesitate to open an issue or submit a pull request! 🚀
+
+Let's connect and build amazing things together! ✨
+
+
 # 💫 About Me:
 🔭 I’m currently working on A Multipage e-commerce website<br>👯 I’m looking to collaborate on Unique Frontend Projects<br>🤝 I’m looking for help with Nodejs<br>🌱 I’m currently learning NodeJs<br>💬 Ask me about React.js<br>⚡ Fun fact I use to hate Javascript 🤣
 
